@@ -1,5 +1,5 @@
 {
-  "name": "@mikezimm/sample-library",
+  "name": "@mikezimm/fps-banner-v2",
   "version": "1.0.0",
   "description": "Sample Library",
   "license": "UNLICENSED",
@@ -35,14 +35,12 @@
     "webpack": "^5.74.0",
     "webpack-bundle-analyzer": "^4.6.1",
     "webpack-cli": "^4.10.0",
-    "webpack-dev-server": "^4.11.0",
-    "@types/lodash-es": "^4.17.21"
+    "webpack-dev-server": "^4.11.0"
   },
   "files": [
     "/lib"
   ],
   "dependencies": {
-    "lodash-es": "^4.17.21",
     "react": "16.13.1",
     "react-dom": "16.13.1"
   }
